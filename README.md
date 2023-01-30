@@ -8,8 +8,7 @@
 - ⚡ Fun fact **I am a student** lol 🥳
 
 <p align="left">
-Tech stack
-<br/>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,10 +27,10 @@ Tech stack
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceice666&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="iceice666" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceice666&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iceice666" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iceice666&show_icons=true&locale=en" alt="iceice666" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iceice666&show_icons=true&locale=en&theme=tokyonight" alt="iceice666" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iceice666&" alt="iceice666" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iceice666&theme=tokyonight" alt="iceice666" /></p>
 
 
