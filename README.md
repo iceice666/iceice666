@@ -22,7 +22,11 @@
 </a>
 
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg "alt="lua" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="lua" width="40" height="40"/>
+<a/>
+
+<a href="https://neovim.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/>
 <a/>
 
 </p>
