@@ -6,7 +6,7 @@
 - 📫 How to reach me **iceice666@outlook.com**
 
 - ⚡ Fun fact **I am a student** lol 🥳
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 <p align="left">
 
 </p>
