@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="lua" width="40" height="40"/>
+ < img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg "alt="lua" width="40" height="40"/>
 <a/>
 
 </p>
