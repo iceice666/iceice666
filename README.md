@@ -5,11 +5,8 @@
 
 - 📫 How to reach me **iceice666@outlook.com**
 
-- ⚡ Fun fact **I am a student** lol 🥳
+- ⚡ Fun fact **I like reinventing the wheel🛞** lol 🥳
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-<p align="left">
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,7 +28,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceice666&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iceice666" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceice666&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iceice666" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iceice666&show_icons=true&locale=en&theme=tokyonight" alt="iceice666" /></p>
 
