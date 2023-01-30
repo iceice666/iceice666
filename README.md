@@ -3,8 +3,13 @@
 
 - 🌱 I’m currently learning **Go, Rust**
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **iceice666@outlook.com**
+
+- ⚡ Fun fact **I am a student** lol 🥳
+
 <p align="left">
+Tech stack
+<br/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,7 +23,7 @@
 </a>
 
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
- < img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg "alt="lua" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg "alt="lua" width="40" height="40"/>
 <a/>
 
 </p>
