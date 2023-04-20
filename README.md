@@ -2,7 +2,7 @@
 <h3 align="center">A noob dev who keeps learning how to avoid becoming lazy.</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-- 🌱 I’m currently learning **Go, Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **iceice666@outlook.com**
 
@@ -30,9 +30,12 @@
 
 
 <h3 align="left">My stats:</h3>
-<p><img align="center" src="https://github-readme-stats-iceice666.vercel.app/api/top-langs?username=iceice666&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iceice666" />
+<p><img align="center" src="https://readme-stats-iceice666.vercel.app/api/top-langs?username=iceice666&hide=javascript&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iceice666" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-iceice666.vercel.app/api?username=iceice666&show_icons=true&locale=en&theme=tokyonight" alt="iceice666" /></p>
+<p>&nbsp;<img align="center" src="https://readme-stats-iceice666.vercel.app/api?username=iceice666&show_icons=true&locale=en&theme=tokyonight" alt="iceice666" /></p>
 
+<h3 align="left">Pinned Repos</h3>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=dwm&show_owner=true&theme=tokyonight)](https://github.com/iceice666/dwm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=nvim&show_owner=true&theme=tokyonight)](https://github.com/iceice666/nvim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=kusa.player.python&show_owner=true&theme=tokyonight)](https://github.com/iceice666/kusa.player.python)
