@@ -30,9 +30,9 @@
 
 
 <h3 align="left">My stats:</h3>
-<p><img align="center" src="https://github-readme-stats-iceice666.vercel.app/api/top-langs?username=iceice666&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iceice666" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceice666&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iceice666" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-iceice666.vercel.app/api?username=iceice666&show_icons=true&locale=en&theme=tokyonight" alt="iceice666" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iceice666&show_icons=true&locale=en&theme=tokyonight" alt="iceice666" /></p>
 
 
 
