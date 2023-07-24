@@ -37,5 +37,10 @@
 <h3 align="left">Pinned Repos</h3>
 
 [![Readme Card](https://readme-stats-iceice666.vercel.app/api/pin/?username=iceice666&repo=dwm&show_owner=true&theme=tokyonight)](https://github.com/iceice666/dwm)
+
 [![Readme Card](https://readme-stats-iceice666.vercel.app/api/pin/?username=iceice666&repo=nvim&show_owner=true&theme=tokyonight)](https://github.com/iceice666/nvim)
-[![Readme Card](https://readme-stats-iceice666.vercel.app/api/pin/?username=iceice666&repo=kusa.player.python&show_owner=true&theme=tokyonight)](https://github.com/iceice666/kusa.player.python)
+
+
+<a href="https://github.com/iceice666/kusa.player.python">
+<img src="https://readme-stats-iceice666.vercel.app/api/pin/?username=iceice666&repo=kusa.player.python&show_owner=true&theme=tokyonight"/>
+</a>
