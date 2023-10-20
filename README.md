@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **iceice666@outlook.com**
 
-- ⚡ Fun fact **I like reinventing the wheel🛞** lol 🥳
+- ⚡ Fun fact **I like make some small MInecraft Mod and small apps**  🥳
 
 
 <h3 align="left">Languages and Tools:</h3>
