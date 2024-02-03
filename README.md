@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **iceice666@outlook.com**
 
-- ⚡ Fun fact **I like make some small MInecraft Mod and small apps**  🥳
+- ⚡ Fun fact **I like make some small Minecraft Mod and small apps**  🥳
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,9 +36,11 @@
 
 <h3 align="left">Pinned Repos</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=dotfiles&show_owner=true&theme=tokyonight)](https://github.com/iceice666/dotfiles)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=nvim&show_owner=true&theme=tokyonight)](https://github.com/iceice666/nvim)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=resourcepack-server&show_owner=true&theme=tokyonight)](https://github.com/iceice666/resourcepack-server)
 
 
 <a href="https://github.com/iceice666/kusa.player.python">
