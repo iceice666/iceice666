@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm iceice666</h1>
 <h3 align="center">A noob dev who keeps learning how to avoid becoming lazy.</h3>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 - 🌱 I’m currently learning **Rust**
@@ -20,7 +21,7 @@
 </a>
 
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="lua" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 </a>
 
 <a href="https://neovim.io/" target="_blank" rel="noreferrer">
