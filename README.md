@@ -5,10 +5,11 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **iceice666@outlook.com**
+- 📫 How to reach me **owner@nekocat.site**
 
 - ⚡ Fun fact **I like make some small Minecraft Mod and small apps**  🥳
 
+- I host a git server at **https://gitea.nekocat.site**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
