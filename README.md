@@ -36,6 +36,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iceice666&show_icons=true&locale=en&theme=tokyonight" alt="iceice666" /></p>
 
+<!--
+
 <h3 align="left">Pinned Repos</h3>
 
 
@@ -48,3 +50,5 @@
 <a href="https://github.com/iceice666/kusa.player.python">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=kusa.player.python&show_owner=true&theme=tokyonight"/>
 </a>
+
+-->
