@@ -7,9 +7,8 @@
 
 - 📫 How to reach me **owner@nekocat.site**
 
-- ⚡ Fun fact **I like make some small Minecraft Mod and small apps**  🥳
+- ⚡ Fun fact **I like make some small Minecraft Mod and small tools**  🥳
 
-- I host a git server at **https://gitea.nekocat.site**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
