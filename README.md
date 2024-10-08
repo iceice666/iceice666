@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **owner@nekocat.site**
+- 📫 How to reach me **iceice666@outlook.com**
 
 - ⚡ Fun fact **I like make some small Minecraft Mod and small tools**  🥳
 
