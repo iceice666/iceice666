@@ -1,60 +1,78 @@
-<h1 align="center">Hi 👋, I'm iceice666</h1>
-<h3 align="center">A noob dev who keeps learning how to avoid becoming lazy.</h3>
+<h1 align="center">Brian Duan / justaslime</h1>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
-- 🌱 I’m currently learning **Rust**
-
-- 📫 How to reach me **iceice666@outlook.com**
-
-- ⚡ Fun fact **I like make some small Minecraft Mod and small tools**  🥳
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-
-  
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.rustacean.net/assets/rustacean-flat-happy.svg" alt="rust" width="50" height="50"/> 
-</a>
-  
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-</a>
-
-<a href="https://neovim.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/>
-</a>
+<p align="center">
+  Systems-minded software engineer building local-first AI agents,
+  developer tools, programming language experiments, and reproducible infrastructure.
 </p>
 
+<p align="center">
+  NCKU student · Rust / TypeScript / Nix / Linux / compilers / self-hosting
+</p>
 
-<h3 align="left">My stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceice666&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iceice666" />
+<p align="center">
+  <a href="https://www.justaslime.dev">Website</a> ·
+  <a href="https://www.justaslime.dev/resume">Résumé</a> ·
+  <a href="https://www.justaslime.dev/feed">Writing</a> ·
+  <a href="mailto:brian1061225@gmail.com">Email</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iceice666&show_icons=true&locale=en&theme=tokyonight" alt="iceice666" /></p>
+---
 
-<!--
+## What I build
 
-<h3 align="left">Pinned Repos</h3>
+I like software that is small enough to understand, sharp enough to be useful,
+and local-first enough to stay under the user's control.
 
+These days, I am mostly interested in:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=nvim&show_owner=true&theme=tokyonight)](https://github.com/iceice666/nvim)
+- **Local-first AI agents** — sandboxed runtimes, project-aware agents, approval flows, artifact systems.
+- **Programming languages & data systems** — parsers, semantic IRs, typed computation over structured data.
+- **Developer tooling** — keyboard-first workflows, editor integrations, reproducible environments.
+- **Personal infrastructure** — Nix, self-hosting, homelab services, multi-machine configuration.
+- **Security & CTFs** — reverse engineering, crypto, web, pwn, jail, protocol challenges.
 
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=resourcepack-server&show_owner=true&theme=tokyonight)](https://github.com/iceice666/resourcepack-server)
+## Selected projects
 
+| Project | What it is | Stack / Focus |
+|---|---|---|
+| [TempestMiku](https://github.com/mozufu/TempestMiku) | A self-hosted single-user AI companion and coding-agent runtime with sandboxing, approvals, and project context. | Rust, Deno, agent runtime, local-first AI |
+| [Zutai](https://github.com/iceice666/zutai) | An experimental two-mode language system for deterministic data literals and pure, lazy, typed computation. | Language design, parser, semantic IR, CLI |
+| [justaslime.dev](https://github.com/iceice666/blog-site) | My personal blog / portfolio system, built around MDX content, terminal-inspired navigation, and Cloudflare deployment. | Astro, TypeScript, MDX, Cloudflare Workers |
+| [dotfiles](https://github.com/iceice666/dotfiles) | Multi-host Nix configuration for macOS, NixOS, Alpine, homelab services, secrets, dev shells, and custom packages. | Nix, Home Manager, Linux, infra |
 
-<a href="https://github.com/iceice666/kusa.player.python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iceice666&repo=kusa.player.python&show_owner=true&theme=tokyonight"/>
-</a>
+---
 
--->
+## Technical taste
+
+I tend to prefer tools and systems that are:
+
+- inspectable over magical,
+- composable over monolithic,
+- local-first over cloud-dependent,
+- keyboard-first over mouse-first,
+- reproducible over manually configured.
+
+My usual stack includes:
+
+```txt
+Rust · TypeScript · Nix · Linux · Python · Lua · Haskell · Zig
+Astro · MDX · Cloudflare Workers · Docker · nginx · GitHub Actions
+Neovim · tmux · NixOS · self-hosted services
+```
+
+## Writing
+
+I sometimes write notes, writeups, and project logs at:
+
+- Website: justaslime.dev
+- Feed: justaslime.dev/feed
+- Archive: justaslime.dev/archive
+
+Topics I write about include CTFs, language experiments, AI-agent workflows,
+Linux/Nix infrastructure, and personal tooling.
+
+## Contact
+- Email: brian1061225@gmail.com
+- Website: www.justaslime.dev
